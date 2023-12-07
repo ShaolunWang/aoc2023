@@ -1,1 +1,4 @@
 **/.localsession.vim
+**/aoc.egg-info/
+**/ctags
+**/venv

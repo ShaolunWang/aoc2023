@@ -1,0 +1,5 @@
+xdsl
+toml
+pyright==1.1.335
+ruff==0.0.284
+ruff-lsp
